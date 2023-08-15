@@ -1,4 +1,10 @@
-### Hi there 👋
+- 👋 Hi, I’m Sachin Mehra , Software Engineer @Symplr
+- 👀 I’m a full time Dotnet Developer
+- 🌱 I’m currently learning ANgular
+- 💞️ I’m looking to collaborate on Angular Projects
+- 📫 How to reach me "Mail me at sachinmehra1398@gmail.com"
+
+
 
 <!--
 **Sachinnmehra11/sachinnmehra11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
