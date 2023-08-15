@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Sachin Mehra , Software Engineer @Symplr
-- 👀 I’m a full time Dotnet Developer
-- 🌱 I’m currently learning ANgular
-- 💞️ I’m looking to collaborate on Angular Projects
+- 👀 Full time Dotnet Developer
+- 🌱 Currently learning Angular
+- 💞️ looking to collaborate on Angular Projects
+- ⚡ Fun fact: Cats makes my very happy 😄
 - 📫 How to reach me "Mail me at sachinmehra1398@gmail.com"
+
 
 
 
