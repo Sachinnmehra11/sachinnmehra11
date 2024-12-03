@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sachin Mehra , Software Engineer @Symplr
-- 👀 Full time Dotnet Developer
-- 🌱 Currently learning Angular
+- 👀 Full time Angular/Dotnet Developer
+- 🌱 Currently working on DSA and React together
 - 💞️ looking to collaborate on Angular Projects
-- ⚡ Fun fact: Cats makes my very happy 😄
+- ⚡ Fun fact: Cats makes me very happy 😄
 - 📫 How to reach me "Mail me at sachinmehra1398@gmail.com"
 
 
